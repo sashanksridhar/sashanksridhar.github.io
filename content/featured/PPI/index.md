@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '6'
 title: 'Interrelating N-gram based Protein Sequences using LSTMs with Parallel Capsule Routing'
 cover: 'ppi.png'
 github: 'https://github.com/sashanksridhar/Interrelating-N-gram-based-Protein-Sequences-using-LSTMs-with-Parallel-Capsule-Routing'

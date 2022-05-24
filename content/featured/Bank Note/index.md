@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Deep-Neural Genetic Algorithm Optimization Analysis for Forgery Detection of Banknotes'
-cover: 'bank.png'
+cover: 'banknote.png'
 github: 'https://github.com/sashanksridhar/Deep-Neural-Genetic-Algorithm-Optimization-Analysis-for-Forgery-Detection-of-Banknotes'
 external: 'https://ieeexplore.ieee.org/document/9515040'
 tech:
