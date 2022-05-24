@@ -25,6 +25,10 @@ module.exports = {
       name: 'Scholar',
       url: 'https://scholar.google.com/citations?user=v97f514AAAAJ&hl=en/',
     },
+    {
+      name: 'Researchgate',
+      url: 'https://www.researchgate.net/profile/Sashank-Sridhar/',
+    },
   ],
 
   navLinks: [

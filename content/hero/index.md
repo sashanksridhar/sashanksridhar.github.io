@@ -5,7 +5,7 @@ subtitle: ''
 buttonText: 'Contact Me'
 ---
 
-I’m currently a MS (Research, Computer Science) student at [IIIT Hyderabad](https://www.iiit.ac.in/), supervised by [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/) and [Prof. Ravi Kiran Sarvadevabhatla](https://ravika.github.io/) at [CVIT](https://cvit.iiit.ac.in/)
+I’m currently a MS (Research, Computer Science) student at [IIIT Hyderabad](https://www.iiit.ac.in/), supervised by [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/) and [Prof. Ravi Kiran Sarvadevabhatla](https://ravika.github.io/) at [CVIT](https://cvit.iiit.ac.in/).
 
 Previously, I was working as a Software Developer at Citicorp Services India Pvt. Ltd. for their **Foreign Exchange and Local Markets (FXLM)** and **Treasury and Trade Solutions (TTS)** Businesses.
 
