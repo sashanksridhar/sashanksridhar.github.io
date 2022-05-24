@@ -12,6 +12,5 @@ tech:
 showInProjects: true
 ---
 
-Best Presenter Award - IEEE 12th Annual Computing and Communication Workshop and Conference (CCWC)
-DOI : [10.1109/CCWC54503.2022.9720747](https://ieeexplore.ieee.org/document/9720747)
-Framework for the analysis of protein interactions is performed using Long Short-Term Memory Model with parallel capsule routing.
+**Best Presenter Award** - IEEE 12th Annual Computing and Communication Workshop and Conference (CCWC). DOI : [10.1109/CCWC54503.2022.9720747](https://ieeexplore.ieee.org/document/9720747)
+
