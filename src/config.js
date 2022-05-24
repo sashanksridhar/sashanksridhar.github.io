@@ -21,7 +21,10 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/sashank-sridhar/',
     },
-    
+    {
+      name: 'Scholar',
+      url: 'https://scholar.google.com/citations?user=v97f514AAAAJ&hl=en/',
+    },
   ],
 
   navLinks: [
