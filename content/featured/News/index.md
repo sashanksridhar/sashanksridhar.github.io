@@ -5,9 +5,9 @@ cover: 'News.png'
 github: 'https://github.com/sashanksridhar/News-Categorization-using-Hybrid-BiLSTM-ANN-Model-with-Feature-Engineering'
 external: 'https://www.youtube.com/watch?v=vyVRSarWxiI'
 tech:
-  - Python
-  - tweepy
-  - Twitter API
+  - Bi-LSTM
+  - Feature Engineering : Hypernyms & Hyponyms
+  - Hybrid Neural Modelling
 showInProjects: true
 ---
 

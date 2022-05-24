@@ -10,7 +10,7 @@ url: 'https://www.citigroup.com/citi/'
 
 - Developed a ReactJs based Job Monitoring Tool that helps track the real time execution status of jobs.
 
-- Designed a Generic DB Interface using Spring to connect both SQL and NoSQL Databases. Using Mapstruct the DB Entities are mapped to Request and Response DTOs serving as a layer of abstraction. A three layer interface is given for repository functions with the first layer for user defined queries, followed by a transactional interface for updation and deletion, and finally base Spring CRUD, JPA, Mongo Repositories for saving and retrieval. A Service layer handles various queries and navigates the input to the respective repository operation. Event Handling and Callback methods can also be defined in the Service layer. A Controller handles the REST API calls for CRUD Operations.
+- Designed a Generic DB Interface using Spring to connect both SQL and NoSQL Databases.
 
 - Creating a Spring Cloud Config POC with Git and JDBC as backend to explore externalization of properties and automated rescheduling of jobs.
 
