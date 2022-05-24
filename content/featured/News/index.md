@@ -6,7 +6,7 @@ github: 'https://github.com/sashanksridhar/News-Categorization-using-Hybrid-BiLS
 external: 'https://www.youtube.com/watch?v=vyVRSarWxiI'
 tech:
   - Bi-LSTM
-  - Feature Engineering : Hypernyms & Hyponyms
+  - Feature Engineering Hypernyms Hyponyms
   - Hybrid Neural Modelling
 showInProjects: true
 ---
