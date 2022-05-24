@@ -1,7 +1,7 @@
 ---
-date: '6'
+date: '7'
 title: 'Interrelating N-gram based Protein Sequences using LSTMs with Parallel Capsule Routing'
-cover: 'ppi.png'
+cover: 'BestPresenter.jpg'
 github: 'https://github.com/sashanksridhar/Interrelating-N-gram-based-Protein-Sequences-using-LSTMs-with-Parallel-Capsule-Routing'
 external: 'https://www.youtube.com/watch?v=6NdGTmWTyRA'
 tech:

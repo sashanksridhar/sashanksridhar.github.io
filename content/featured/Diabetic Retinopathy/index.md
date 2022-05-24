@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Detection and Prognosis Evaluation of Diabetic Retinopathy using Ensemble Deep Convolutional Neural Networks'
-cover: 'DR.png'
+cover: 'IES.png'
 github: 'https://github.com/sashanksridhar/Detection-and-Prognosis-Evaluation-of-Diabetic-Retinopathy-using-Ensemble-Deep-Convolutional-Neural-'
 external: 'https://codeocean.com/capsule/0617069/tree/v1'
 tech:

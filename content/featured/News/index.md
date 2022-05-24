@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'News Categorization using Hybrid BiLSTM-ANN Model with Feature Engineering'
-cover: 'News.png'
+cover: 'BestPaper.png'
 github: 'https://github.com/sashanksridhar/News-Categorization-using-Hybrid-BiLSTM-ANN-Model-with-Feature-Engineering'
 external: 'https://www.youtube.com/watch?v=vyVRSarWxiI'
 tech:

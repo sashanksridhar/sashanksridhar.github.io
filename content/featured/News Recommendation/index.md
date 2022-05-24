@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'Content Based News Recommendation Engine using Hybrid BiLSTM-ANN Feature Modelling'
-cover: 'reco.png'
+cover: 'Bronze-Best-Paper-Award.png'
 github: 'https://github.com/sashanksridhar/Content-Based-News-Recommendation-Engine-using-Hybrid-BiLSTM-ANN-Feature-Modelling'
 external: 'https://www.youtube.com/watch?v=O3r7cYagits'
 tech:

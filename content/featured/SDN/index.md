@@ -1,7 +1,7 @@
 ---
 date: '5'
 title: 'Route Prediction in Software Defined Networks Using Ensemble Extreme Learning Machines'
-cover: 'sdn.png'
+cover: 'ExcellentPaperAward.jpeg'
 github: 'https://github.com/sashanksridhar/Route-Prediction-in-Software-Defined-Networks-Using-Ensemble-Extreme-Learning-Machines'
 external: 'https://ieeexplore.ieee.org/document/9621023'
 tech:
