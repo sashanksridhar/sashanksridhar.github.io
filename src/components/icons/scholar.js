@@ -1,12 +1,7 @@
 import React from 'react';
 
 const IconScholar = () => (
-  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns: xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 122.88 122.88" style="enable-background:new 0 0 122.88 122.88" xml: space="preserve"><style type="text/css"><![CDATA[
-	.st0{fill: #356AC3;}
-	.st1{fill: #A0C3FF;}
-	.st2{fill: #76A7FA;}
-	.st3{fill: #4285F4;}
-]]></style><g><polygon class="st3" points="61.44,98.67 0,48.64 61.44,0 61.44,98.67" /><polygon class="st0" points="61.44,98.67 122.88,48.64 61.44,0 61.44,98.67" /><path class="st1" d="M97.28,87.04c0-19.79-16.05-35.84-35.84-35.84c-19.79,0-35.84,16.05-35.84,35.84s16.05,35.84,35.84,35.84 C81.23,122.88,97.28,106.83,97.28,87.04L97.28,87.04z" /><path class="st2" d="M29.05,71.68C34.8,59.57,47.14,51.2,61.44,51.2c14.3,0,26.64,8.37,32.39,20.48H29.05L29.05,71.68z" /></g></svg>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#4285f4" d="M256 411.12L0 202.667 256 0z" /><path fill="#356ac3" d="M256 411.12l256-208.453L256 0z" /><circle fill="#a0c3ff" cx="256" cy="362.667" r="149.333" /><path fill="#76a7fa" d="M121.037 298.667c23.968-50.453 75.392-85.334 134.963-85.334s110.995 34.881 134.963 85.334H121.037z" /></svg>
 );
 
 export default IconScholar;
