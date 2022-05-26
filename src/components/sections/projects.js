@@ -146,9 +146,9 @@ const Projects = ({ data }) => {
 
   return (
     <StyledContainer>
-      <StyledTitle ref={revealTitle}>Research</StyledTitle>
+      <StyledTitle ref={revealTitle}>Publications</StyledTitle>
       <StyledArchiveLink to="/archive" ref={revealArchiveLink}>
-        View List of Programme Committees
+        View Complete List of Publications
       </StyledArchiveLink>
 
       <StyledGrid>

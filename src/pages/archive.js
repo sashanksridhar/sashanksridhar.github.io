@@ -115,8 +115,8 @@ const ArchivePage = ({ location, data }) => {
 
       <StyledMainContainer>
         <header ref={revealTitle}>
-          <h1 className="big-title">Program Committees</h1>
-          <p className="subtitle">A list of committees I have been a part of</p>
+          <h1 className="big-title">List of Publications</h1>
+          <p className="subtitle">A list of all my publications</p>
         </header>
 
         <StyledTableContainer ref={revealTable}>
@@ -124,9 +124,9 @@ const ArchivePage = ({ location, data }) => {
             <thead>
               <tr>
                 <th>Year</th>
-                <th>Title</th>
-                <th className="hide-on-mobile">Country</th>
-                <th className="hide-on-mobile">Committee</th>
+                <th>Paper</th>
+                <th className="hide-on-mobile">DOI</th>
+                <th className="hide-on-mobile">Conference</th>
                 <th>Link</th>
               </tr>
             </thead>
