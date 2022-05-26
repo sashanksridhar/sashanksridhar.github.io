@@ -4,9 +4,10 @@ title: 'ELM-AD: Extreme Learning Machine Framework for Price and Volume Anomaly 
 github: 'https://github.com/sashanksridhar/ELM-AD-Extreme-Learning-Machine-Framework-for-Price-and-Volume-Anomaly-Detection-in-Stock-Markets'
 external: 'https://ieeexplore.ieee.org/document/9629409'
 tech:
-  - INTELLI
-  - Venice, Italy
-company: 'IARIA XPS Press'
+  - Extreme Learning Machines
+  - Feature Importance
+  - Anamoly Detection
+company: ''
 showInProjects: true
 ---
 

@@ -7,7 +7,7 @@ tech:
   - Sentiment Analysis
   - Event Embedding
   - Stock Price Prediction
-company: 'IEEE'
+company: ''
 showInProjects: true
 ---
 
